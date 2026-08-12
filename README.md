@@ -118,5 +118,5 @@ python chat.py
 - Notion API의 데이터소스(data source) 조회 방식을 사용하므로 `notion-client` 3.x 이상이 필요합니다.
 
 ### GitHub MCP + n8n MCP 연동
-커밋(로컬 git) + 이슈 관리(GitHub MCP)**가 다 자연어로 가능하다.
+**커밋(로컬 git) + 이슈 관리(GitHub MCP)**가 다 자연어로 가능하다.
 -> 커밋·이슈 자동화 완료
